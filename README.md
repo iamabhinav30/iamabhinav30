@@ -86,7 +86,7 @@ Automation and guardrails that eliminate repetitive work and prevent entire clas
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
 </p>
 
-**PostgreSQL** · **MongoDB** · **Redis**
+**PostgreSQL** · **MongoDB**
 
 ### DevOps & Tooling
 <p align="left">
@@ -96,7 +96,7 @@ Automation and guardrails that eliminate repetitive work and prevent entire clas
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
 </p>
 
-**Git** · **Webpack** · **Jenkins** · **AWS** · **Docker** · **CI/CD** · **Jest** · **Cypress**
+**Git** · **Webpack** · **Jenkins** · **AWS** · **CI/CD** · **Jest** · **Cypress**
 
 ### Currently Exploring
 <p align="left">
@@ -171,6 +171,9 @@ If you care about **scalable UI architecture**, **design systems**, or the inter
 </a>
 <a href="https://linkedin.com/in/yourprofile" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://medium.com/@iamabhinav30" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 <a href="mailto:your.email@example.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>

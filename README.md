@@ -1,69 +1,109 @@
-# 👨‍💻Namaste I am Abhinav Singh
+<div align="center">
 
+# 👨‍💻 Abhinav Singh
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamabhinav30&label=Profile%20views&color=0e75b6&style=flat" alt="iamabhinav30" />
+</p>
 
-**Lead Software Engineer | UI Architect**  
-🏢 Building scalable frontend systems at **JP Morgan Chase & Co.**, Bengaluru  
-📍 12+ years of enterprise-grade engineering
+### Lead Software Engineer | UI Architect
+🏢 **JP Morgan Chase & Co.** | 📍 Bengaluru, India | 💼 12+ Years
+
+</div>
 
 ---
 
 ## 🎯 UI Engineering at Scale
 
-I architect frontend systems that outlive product cycles.
+I architect **frontend systems that outlive product cycles**.
 
 Over 12 years, I've learned that great UI engineering isn't about perfecting pixels—it's about building **abstractions that let teams move faster without breaking things**. My work centers on design systems, component architectures, and performance optimization for enterprise applications that serve millions.
 
-💡 I think in systems. I build for longevity.
+> 💡 *I think in systems. I build for longevity.*
 
 ---
 
 ## 🚀 What I Build
 
-**🎨 Design Systems**  
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Design Systems
 Unified component libraries that enforce consistency and accelerate development across product teams.
 
-**⚡ Enterprise SPAs**  
+</td>
+<td width="50%">
+
+### ⚡ Enterprise SPAs
 High-performance single-page applications built for scale, maintainability, and developer experience.
 
-**🏗️ Frontend Architecture**  
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏗️ Frontend Architecture
 Modular, testable systems designed to evolve with business requirements—not against them.
 
-**🛠️ Developer Tooling**  
+</td>
+<td width="50%">
+
+### 🛠️ Developer Tooling
 Automation and guardrails that eliminate repetitive work and prevent entire classes of bugs.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔧 Core Stack
+## 💻 Tech Arsenal
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+### Frontend Engineering
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
 </p>
+
+**React.js** · **Angular** · **Next.js** · **TypeScript** · **JavaScript (ES6+)** · **Redux** · **HTML5/CSS3** · **SCSS/SASS**
+
+### Backend & APIs
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="45" height="45"/>
+</p>
+
+**Node.js** · **Express.js** · **NestJS** · **RESTful APIs** · **GraphQL**
+
+### Data Layer
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+</p>
+
+**PostgreSQL** · **MongoDB** · **Redis**
+
+### DevOps & Tooling
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+</p>
+
+**Git** · **Webpack** · **Jenkins** · **AWS** · **Docker** · **CI/CD** · **Jest** · **Cypress**
+
+### Currently Exploring
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+</p>
+
+**Python** · **AI/LLM Integration** · **Modern SSR Patterns**
 
 ---
 
@@ -123,19 +163,26 @@ I believe in building systems—technical and human—that make things better.
 
 ## 📬 Let's Connect
 
-<h3 align="left">Connect with me:</h3>
-
 If you care about **scalable UI architecture**, **design systems**, or the intersection of **frontend engineering and automation**, let's talk.
 
-[![GitHub](https://img.shields.io/badge/GitHub-iamabhinav30-181717?style=for-the-badge&logo=github)](https://github.com/iamabhinav30)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhinav30&label=Profile%20views&color=0e75b6&style=flat" alt="iamabhinav30" /> </p>
+<p align="center">
+<a href="https://github.com/iamabhinav30" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/yourprofile" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:your.email@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
 
 ---
 
 <div align="center">
 
-## ✨ *Frontend systems that scale. UI engineering that lasts*✨
+### ✨ *Frontend systems that scale. UI engineering that lasts.* ✨
+
+**Building tomorrow's interfaces, today.**
 
 </div>

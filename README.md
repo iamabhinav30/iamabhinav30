@@ -11,20 +11,6 @@
 
 </div>
 
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-.tech-icon {
-  animation: float 3s ease-in-out infinite;
-  transition: transform 0.3s ease;
-}
-.tech-icon:hover {
-  transform: scale(1.2) !important;
-}
-</style>
-
 ---
 
 ## 🎯 UI Engineering at Scale
